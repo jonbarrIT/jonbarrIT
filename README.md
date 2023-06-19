@@ -8,8 +8,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jonbarrIT/post-install-config)
   
 - <b>Microsoft Azure</b>
-  - [Virtual Private Networks (VPN)](https://github.com/jonbarrIT/VPN)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jonbarrIT/azure-network-protocols)
+  - [Azure Compute and Networking](https://github.com/jonbarrIT/VPN)
+  
 
 <h2>🤳Connect with me:</h2>
 
